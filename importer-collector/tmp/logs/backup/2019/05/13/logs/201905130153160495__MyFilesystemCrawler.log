@@ -1,0 +1,18 @@
+[non-job]: 2019-05-13 01:53:16 INFO - Starting execution.
+[non-job]: 2019-05-13 01:53:16 INFO - Version: Norconex Filesystem Collector 2.8.0 (Norconex Inc.)
+[non-job]: 2019-05-13 01:53:16 INFO - Version: Norconex Collector Core 1.9.0 (Norconex Inc.)
+[non-job]: 2019-05-13 01:53:16 INFO - Version: Norconex Importer 2.8.0 (Norconex Inc.)
+[non-job]: 2019-05-13 01:53:16 INFO - Version: Norconex JEF 4.1.0 (Norconex Inc.)
+[non-job]: 2019-05-13 01:53:16 INFO - Version: Norconex Committer Core 2.1.2 (Norconex Inc.)
+MyFilesystemCrawler: 2019-05-13 01:53:16 INFO - Running MyFilesystemCrawler: BEGIN (Mon May 13 01:53:16 ICT 2019)
+MyFilesystemCrawler: 2019-05-13 01:53:16 INFO - Using "C:\Users\chungho\AppData\Local\Temp\vfs_cache" as temporary files store.
+MyFilesystemCrawler: 2019-05-13 01:53:16 INFO - 1 start paths identified.
+MyFilesystemCrawler: 2019-05-13 01:53:16 INFO -           CRAWLER_STARTED
+MyFilesystemCrawler: 2019-05-13 01:53:16 INFO - MyFilesystemCrawler: Crawling references...
+MyFilesystemCrawler: 2019-05-13 01:53:16 INFO -         REJECTED_NOTFOUND: F:\oasp\Web-Content-Crawler\filesystem-collector-resources\demo2.txt
+MyFilesystemCrawler: 2019-05-13 01:53:16 INFO - MyFilesystemCrawler: Reprocessing any cached/orphan references...
+MyFilesystemCrawler: 2019-05-13 01:53:16 INFO - MyFilesystemCrawler: 1 reference(s) processed.
+MyFilesystemCrawler: 2019-05-13 01:53:16 INFO -          CRAWLER_FINISHED
+MyFilesystemCrawler: 2019-05-13 01:53:16 INFO - MyFilesystemCrawler: Crawler completed.
+MyFilesystemCrawler: 2019-05-13 01:53:16 INFO - MyFilesystemCrawler: Crawler executed in 0 second.
+MyFilesystemCrawler: 2019-05-13 01:53:16 INFO - Running MyFilesystemCrawler: END (Mon May 13 01:53:16 ICT 2019)

@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/solid-examples/SolidExample.iml" filepath="$PROJECT_DIR$/solid-examples/SolidExample.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Web-Content-Crawler.iml" filepath="$PROJECT_DIR$/.idea/Web-Content-Crawler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/filesystem-collector/webcontent-crawler.iml" filepath="$PROJECT_DIR$/filesystem-collector/webcontent-crawler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-crawler/webcontent-crawler (1).iml" filepath="$PROJECT_DIR$/web-crawler/webcontent-crawler (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/importer-collector/webcontent-crawler (2).iml" filepath="$PROJECT_DIR$/importer-collector/webcontent-crawler (2).iml" />
     </modules>
   </component>
 </project>
